@@ -123,32 +123,221 @@ CppAlgorithm/fast:
 	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/build
 .PHONY : CppAlgorithm/fast
 
-test2-6.o: test2-6.cpp.o
+test3-5.o: test3-5.cpp.o
 
-.PHONY : test2-6.o
+.PHONY : test3-5.o
 
 # target to build an object file
-test2-6.cpp.o:
-	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test2-6.cpp.o
-.PHONY : test2-6.cpp.o
+test3-5.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-5.cpp.o
+.PHONY : test3-5.cpp.o
 
-test2-6.i: test2-6.cpp.i
+test3-5.i: test3-5.cpp.i
 
-.PHONY : test2-6.i
+.PHONY : test3-5.i
 
 # target to preprocess a source file
-test2-6.cpp.i:
-	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test2-6.cpp.i
-.PHONY : test2-6.cpp.i
+test3-5.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-5.cpp.i
+.PHONY : test3-5.cpp.i
 
-test2-6.s: test2-6.cpp.s
+test3-5.s: test3-5.cpp.s
 
-.PHONY : test2-6.s
+.PHONY : test3-5.s
 
 # target to generate assembly for a file
-test2-6.cpp.s:
-	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test2-6.cpp.s
-.PHONY : test2-6.cpp.s
+test3-5.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-5.cpp.s
+.PHONY : test3-5.cpp.s
+
+test3-6.o: test3-6.cpp.o
+
+.PHONY : test3-6.o
+
+# target to build an object file
+test3-6.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-6.cpp.o
+.PHONY : test3-6.cpp.o
+
+test3-6.i: test3-6.cpp.i
+
+.PHONY : test3-6.i
+
+# target to preprocess a source file
+test3-6.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-6.cpp.i
+.PHONY : test3-6.cpp.i
+
+test3-6.s: test3-6.cpp.s
+
+.PHONY : test3-6.s
+
+# target to generate assembly for a file
+test3-6.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-6.cpp.s
+.PHONY : test3-6.cpp.s
+
+test3-7.o: test3-7.cpp.o
+
+.PHONY : test3-7.o
+
+# target to build an object file
+test3-7.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-7.cpp.o
+.PHONY : test3-7.cpp.o
+
+test3-7.i: test3-7.cpp.i
+
+.PHONY : test3-7.i
+
+# target to preprocess a source file
+test3-7.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-7.cpp.i
+.PHONY : test3-7.cpp.i
+
+test3-7.s: test3-7.cpp.s
+
+.PHONY : test3-7.s
+
+# target to generate assembly for a file
+test3-7.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test3-7.cpp.s
+.PHONY : test3-7.cpp.s
+
+test4-1.o: test4-1.cpp.o
+
+.PHONY : test4-1.o
+
+# target to build an object file
+test4-1.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-1.cpp.o
+.PHONY : test4-1.cpp.o
+
+test4-1.i: test4-1.cpp.i
+
+.PHONY : test4-1.i
+
+# target to preprocess a source file
+test4-1.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-1.cpp.i
+.PHONY : test4-1.cpp.i
+
+test4-1.s: test4-1.cpp.s
+
+.PHONY : test4-1.s
+
+# target to generate assembly for a file
+test4-1.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-1.cpp.s
+.PHONY : test4-1.cpp.s
+
+test4-2.o: test4-2.cpp.o
+
+.PHONY : test4-2.o
+
+# target to build an object file
+test4-2.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-2.cpp.o
+.PHONY : test4-2.cpp.o
+
+test4-2.i: test4-2.cpp.i
+
+.PHONY : test4-2.i
+
+# target to preprocess a source file
+test4-2.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-2.cpp.i
+.PHONY : test4-2.cpp.i
+
+test4-2.s: test4-2.cpp.s
+
+.PHONY : test4-2.s
+
+# target to generate assembly for a file
+test4-2.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-2.cpp.s
+.PHONY : test4-2.cpp.s
+
+test4-3.o: test4-3.cpp.o
+
+.PHONY : test4-3.o
+
+# target to build an object file
+test4-3.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-3.cpp.o
+.PHONY : test4-3.cpp.o
+
+test4-3.i: test4-3.cpp.i
+
+.PHONY : test4-3.i
+
+# target to preprocess a source file
+test4-3.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-3.cpp.i
+.PHONY : test4-3.cpp.i
+
+test4-3.s: test4-3.cpp.s
+
+.PHONY : test4-3.s
+
+# target to generate assembly for a file
+test4-3.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-3.cpp.s
+.PHONY : test4-3.cpp.s
+
+test4-4.o: test4-4.cpp.o
+
+.PHONY : test4-4.o
+
+# target to build an object file
+test4-4.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-4.cpp.o
+.PHONY : test4-4.cpp.o
+
+test4-4.i: test4-4.cpp.i
+
+.PHONY : test4-4.i
+
+# target to preprocess a source file
+test4-4.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-4.cpp.i
+.PHONY : test4-4.cpp.i
+
+test4-4.s: test4-4.cpp.s
+
+.PHONY : test4-4.s
+
+# target to generate assembly for a file
+test4-4.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-4.cpp.s
+.PHONY : test4-4.cpp.s
+
+test4-5.o: test4-5.cpp.o
+
+.PHONY : test4-5.o
+
+# target to build an object file
+test4-5.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-5.cpp.o
+.PHONY : test4-5.cpp.o
+
+test4-5.i: test4-5.cpp.i
+
+.PHONY : test4-5.i
+
+# target to preprocess a source file
+test4-5.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-5.cpp.i
+.PHONY : test4-5.cpp.i
+
+test4-5.s: test4-5.cpp.s
+
+.PHONY : test4-5.s
+
+# target to generate assembly for a file
+test4-5.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test4-5.cpp.s
+.PHONY : test4-5.cpp.s
 
 # Help Target
 help:
@@ -159,9 +348,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... CppAlgorithm"
-	@echo "... test2-6.o"
-	@echo "... test2-6.i"
-	@echo "... test2-6.s"
+	@echo "... test3-5.o"
+	@echo "... test3-5.i"
+	@echo "... test3-5.s"
+	@echo "... test3-6.o"
+	@echo "... test3-6.i"
+	@echo "... test3-6.s"
+	@echo "... test3-7.o"
+	@echo "... test3-7.i"
+	@echo "... test3-7.s"
+	@echo "... test4-1.o"
+	@echo "... test4-1.i"
+	@echo "... test4-1.s"
+	@echo "... test4-2.o"
+	@echo "... test4-2.i"
+	@echo "... test4-2.s"
+	@echo "... test4-3.o"
+	@echo "... test4-3.i"
+	@echo "... test4-3.s"
+	@echo "... test4-4.o"
+	@echo "... test4-4.i"
+	@echo "... test4-4.s"
+	@echo "... test4-5.o"
+	@echo "... test4-5.i"
+	@echo "... test4-5.s"
 .PHONY : help
 
 
