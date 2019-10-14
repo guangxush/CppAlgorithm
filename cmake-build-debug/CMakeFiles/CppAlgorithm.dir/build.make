@@ -57,30 +57,60 @@ include CMakeFiles/CppAlgorithm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CppAlgorithm.dir/flags.make
 
-CMakeFiles/CppAlgorithm.dir/main.cpp.o: CMakeFiles/CppAlgorithm.dir/flags.make
-CMakeFiles/CppAlgorithm.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guangxush/CLion/CppAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CppAlgorithm.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppAlgorithm.dir/main.cpp.o -c /Users/guangxush/CLion/CppAlgorithm/main.cpp
+CMakeFiles/CppAlgorithm.dir/test2-2.cpp.o: CMakeFiles/CppAlgorithm.dir/flags.make
+CMakeFiles/CppAlgorithm.dir/test2-2.cpp.o: ../test2-2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guangxush/CLion/CppAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CppAlgorithm.dir/test2-2.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppAlgorithm.dir/test2-2.cpp.o -c /Users/guangxush/CLion/CppAlgorithm/test2-2.cpp
 
-CMakeFiles/CppAlgorithm.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppAlgorithm.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guangxush/CLion/CppAlgorithm/main.cpp > CMakeFiles/CppAlgorithm.dir/main.cpp.i
+CMakeFiles/CppAlgorithm.dir/test2-2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppAlgorithm.dir/test2-2.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guangxush/CLion/CppAlgorithm/test2-2.cpp > CMakeFiles/CppAlgorithm.dir/test2-2.cpp.i
 
-CMakeFiles/CppAlgorithm.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppAlgorithm.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guangxush/CLion/CppAlgorithm/main.cpp -o CMakeFiles/CppAlgorithm.dir/main.cpp.s
+CMakeFiles/CppAlgorithm.dir/test2-2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppAlgorithm.dir/test2-2.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guangxush/CLion/CppAlgorithm/test2-2.cpp -o CMakeFiles/CppAlgorithm.dir/test2-2.cpp.s
+
+CMakeFiles/CppAlgorithm.dir/test2-3.cpp.o: CMakeFiles/CppAlgorithm.dir/flags.make
+CMakeFiles/CppAlgorithm.dir/test2-3.cpp.o: ../test2-3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guangxush/CLion/CppAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CppAlgorithm.dir/test2-3.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppAlgorithm.dir/test2-3.cpp.o -c /Users/guangxush/CLion/CppAlgorithm/test2-3.cpp
+
+CMakeFiles/CppAlgorithm.dir/test2-3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppAlgorithm.dir/test2-3.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guangxush/CLion/CppAlgorithm/test2-3.cpp > CMakeFiles/CppAlgorithm.dir/test2-3.cpp.i
+
+CMakeFiles/CppAlgorithm.dir/test2-3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppAlgorithm.dir/test2-3.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guangxush/CLion/CppAlgorithm/test2-3.cpp -o CMakeFiles/CppAlgorithm.dir/test2-3.cpp.s
+
+CMakeFiles/CppAlgorithm.dir/test2-4.cpp.o: CMakeFiles/CppAlgorithm.dir/flags.make
+CMakeFiles/CppAlgorithm.dir/test2-4.cpp.o: ../test2-4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/guangxush/CLion/CppAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CppAlgorithm.dir/test2-4.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/CppAlgorithm.dir/test2-4.cpp.o -c /Users/guangxush/CLion/CppAlgorithm/test2-4.cpp
+
+CMakeFiles/CppAlgorithm.dir/test2-4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CppAlgorithm.dir/test2-4.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/guangxush/CLion/CppAlgorithm/test2-4.cpp > CMakeFiles/CppAlgorithm.dir/test2-4.cpp.i
+
+CMakeFiles/CppAlgorithm.dir/test2-4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CppAlgorithm.dir/test2-4.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/guangxush/CLion/CppAlgorithm/test2-4.cpp -o CMakeFiles/CppAlgorithm.dir/test2-4.cpp.s
 
 # Object files for target CppAlgorithm
 CppAlgorithm_OBJECTS = \
-"CMakeFiles/CppAlgorithm.dir/main.cpp.o"
+"CMakeFiles/CppAlgorithm.dir/test2-2.cpp.o" \
+"CMakeFiles/CppAlgorithm.dir/test2-3.cpp.o" \
+"CMakeFiles/CppAlgorithm.dir/test2-4.cpp.o"
 
 # External object files for target CppAlgorithm
 CppAlgorithm_EXTERNAL_OBJECTS =
 
-CppAlgorithm: CMakeFiles/CppAlgorithm.dir/main.cpp.o
+CppAlgorithm: CMakeFiles/CppAlgorithm.dir/test2-2.cpp.o
+CppAlgorithm: CMakeFiles/CppAlgorithm.dir/test2-3.cpp.o
+CppAlgorithm: CMakeFiles/CppAlgorithm.dir/test2-4.cpp.o
 CppAlgorithm: CMakeFiles/CppAlgorithm.dir/build.make
 CppAlgorithm: CMakeFiles/CppAlgorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/guangxush/CLion/CppAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CppAlgorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/guangxush/CLion/CppAlgorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable CppAlgorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/CppAlgorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
