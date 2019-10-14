@@ -80,13 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test2-2.cpp">
-			<Option target="CppAlgorithm"/>
-		</Unit>
-		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test2-3.cpp">
-			<Option target="CppAlgorithm"/>
-		</Unit>
-		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test2-4.cpp">
+		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test2-6.cpp">
 			<Option target="CppAlgorithm"/>
 		</Unit>
 		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/CMakeLists.txt">
