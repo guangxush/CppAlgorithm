@@ -12,18 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a73ef32e-0a26-43d0-9f33-b5b3c03ef64e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test3-1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3-2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3-3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3-4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3-5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3-6.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test3-7.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4-1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4-2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4-3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4-4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4-5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4-6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4-7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-3.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-4.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-5.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-6.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-7.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-8.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-9.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/CXX.includecache" afterDir="false" />
@@ -90,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571040321470</updated>
-      <workItem from="1571040322715" duration="12743000" />
+      <workItem from="1571040322715" duration="18299000" />
     </task>
     <servers />
   </component>

@@ -3,4 +3,4 @@ project(CppAlgorithm)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(CppAlgorithm test3-5.cpp test3-6.cpp test3-7.cpp test4-1.cpp test4-2.cpp test4-3.cpp test4-4.cpp test4-5.cpp)
+add_executable(CppAlgorithm test5-3.cpp test5-4.cpp test5-5.cpp test5-6.cpp test5-7.cpp test5-8.cpp test5-9.cpp)
