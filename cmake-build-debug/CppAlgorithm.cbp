@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test5-10.cpp">
+			<Option target="CppAlgorithm"/>
+		</Unit>
+		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test5-11.cpp">
+			<Option target="CppAlgorithm"/>
+		</Unit>
+		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test5-12.cpp">
+			<Option target="CppAlgorithm"/>
+		</Unit>
 		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test5-3.cpp">
 			<Option target="CppAlgorithm"/>
 		</Unit>
@@ -99,6 +108,12 @@
 			<Option target="CppAlgorithm"/>
 		</Unit>
 		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test5-9.cpp">
+			<Option target="CppAlgorithm"/>
+		</Unit>
+		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test6-1.cpp">
+			<Option target="CppAlgorithm"/>
+		</Unit>
+		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/test6-2.cpp">
 			<Option target="CppAlgorithm"/>
 		</Unit>
 		<Unit filename="/Users/guangxush/CLion/CppAlgorithm/CMakeLists.txt">

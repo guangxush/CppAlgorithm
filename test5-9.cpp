@@ -30,7 +30,8 @@ int main() {
     }
     vector<string> ans;
     for (int i = 0; i < words.size(); i++)
-        if (cnt[repr(words[i])] == 1) ans.push_back(words[i]);
+        if (cnt[repr(words[i])] == 1)
+            ans.push_back(words[i]);
     sort(ans.begin(), ans.end());
     for (int i = 0; i < ans.size(); i++)
         cout << ans[i] << "\n";

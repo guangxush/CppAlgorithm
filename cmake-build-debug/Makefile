@@ -123,6 +123,87 @@ CppAlgorithm/fast:
 	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/build
 .PHONY : CppAlgorithm/fast
 
+test5-10.o: test5-10.cpp.o
+
+.PHONY : test5-10.o
+
+# target to build an object file
+test5-10.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-10.cpp.o
+.PHONY : test5-10.cpp.o
+
+test5-10.i: test5-10.cpp.i
+
+.PHONY : test5-10.i
+
+# target to preprocess a source file
+test5-10.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-10.cpp.i
+.PHONY : test5-10.cpp.i
+
+test5-10.s: test5-10.cpp.s
+
+.PHONY : test5-10.s
+
+# target to generate assembly for a file
+test5-10.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-10.cpp.s
+.PHONY : test5-10.cpp.s
+
+test5-11.o: test5-11.cpp.o
+
+.PHONY : test5-11.o
+
+# target to build an object file
+test5-11.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-11.cpp.o
+.PHONY : test5-11.cpp.o
+
+test5-11.i: test5-11.cpp.i
+
+.PHONY : test5-11.i
+
+# target to preprocess a source file
+test5-11.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-11.cpp.i
+.PHONY : test5-11.cpp.i
+
+test5-11.s: test5-11.cpp.s
+
+.PHONY : test5-11.s
+
+# target to generate assembly for a file
+test5-11.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-11.cpp.s
+.PHONY : test5-11.cpp.s
+
+test5-12.o: test5-12.cpp.o
+
+.PHONY : test5-12.o
+
+# target to build an object file
+test5-12.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-12.cpp.o
+.PHONY : test5-12.cpp.o
+
+test5-12.i: test5-12.cpp.i
+
+.PHONY : test5-12.i
+
+# target to preprocess a source file
+test5-12.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-12.cpp.i
+.PHONY : test5-12.cpp.i
+
+test5-12.s: test5-12.cpp.s
+
+.PHONY : test5-12.s
+
+# target to generate assembly for a file
+test5-12.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-12.cpp.s
+.PHONY : test5-12.cpp.s
+
 test5-3.o: test5-3.cpp.o
 
 .PHONY : test5-3.o
@@ -312,6 +393,60 @@ test5-9.cpp.s:
 	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test5-9.cpp.s
 .PHONY : test5-9.cpp.s
 
+test6-1.o: test6-1.cpp.o
+
+.PHONY : test6-1.o
+
+# target to build an object file
+test6-1.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test6-1.cpp.o
+.PHONY : test6-1.cpp.o
+
+test6-1.i: test6-1.cpp.i
+
+.PHONY : test6-1.i
+
+# target to preprocess a source file
+test6-1.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test6-1.cpp.i
+.PHONY : test6-1.cpp.i
+
+test6-1.s: test6-1.cpp.s
+
+.PHONY : test6-1.s
+
+# target to generate assembly for a file
+test6-1.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test6-1.cpp.s
+.PHONY : test6-1.cpp.s
+
+test6-2.o: test6-2.cpp.o
+
+.PHONY : test6-2.o
+
+# target to build an object file
+test6-2.cpp.o:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test6-2.cpp.o
+.PHONY : test6-2.cpp.o
+
+test6-2.i: test6-2.cpp.i
+
+.PHONY : test6-2.i
+
+# target to preprocess a source file
+test6-2.cpp.i:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test6-2.cpp.i
+.PHONY : test6-2.cpp.i
+
+test6-2.s: test6-2.cpp.s
+
+.PHONY : test6-2.s
+
+# target to generate assembly for a file
+test6-2.cpp.s:
+	$(MAKE) -f CMakeFiles/CppAlgorithm.dir/build.make CMakeFiles/CppAlgorithm.dir/test6-2.cpp.s
+.PHONY : test6-2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -321,6 +456,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... CppAlgorithm"
+	@echo "... test5-10.o"
+	@echo "... test5-10.i"
+	@echo "... test5-10.s"
+	@echo "... test5-11.o"
+	@echo "... test5-11.i"
+	@echo "... test5-11.s"
+	@echo "... test5-12.o"
+	@echo "... test5-12.i"
+	@echo "... test5-12.s"
 	@echo "... test5-3.o"
 	@echo "... test5-3.i"
 	@echo "... test5-3.s"
@@ -342,6 +486,12 @@ help:
 	@echo "... test5-9.o"
 	@echo "... test5-9.i"
 	@echo "... test5-9.s"
+	@echo "... test6-1.o"
+	@echo "... test6-1.i"
+	@echo "... test6-1.s"
+	@echo "... test6-2.o"
+	@echo "... test6-2.i"
+	@echo "... test6-2.s"
 .PHONY : help
 
 

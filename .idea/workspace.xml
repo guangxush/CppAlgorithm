@@ -12,32 +12,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a73ef32e-0a26-43d0-9f33-b5b3c03ef64e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test4-6.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test4-7.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-3.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-4.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-5.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-6.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-7.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-8.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test5-9.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-10.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-11.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test5-12.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6-1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test6-2.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CppAlgorithm.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CppAlgorithm" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CppAlgorithm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CppAlgorithm.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CppAlgorithm.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test5-9.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test5-9.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571040321470</updated>
-      <workItem from="1571040322715" duration="18299000" />
+      <workItem from="1571040322715" duration="21906000" />
     </task>
     <servers />
   </component>
